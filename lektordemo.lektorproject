@@ -1,2 +1,4 @@
 [project]
 name = lektordemo
+[servers.ghpages]
+target = ghpages://heungshik/lektordemo
